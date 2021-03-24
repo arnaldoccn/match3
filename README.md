@@ -1,4 +1,4 @@
-# M atch3
+# Match3
 A match 3 game
 
 Project developed on C# with Unity 2019.4.22f1.
